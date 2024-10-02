@@ -1,0 +1,257 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+}
+ul
+{
+    list-style: none;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 10px;
+    background-color: rgb(0, 77, 128);
+}
+ul a:hover 
+{
+    background-color: rgb(88, 226, 34);
+    color: rgb(255, 255, 255);
+    width: 80px;
+}
+li a 
+{
+    display: flex;
+    width: 50px;
+    text-decoration: none;
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(0, 77, 128);
+}
+#nav-bar
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 20px;
+    background-color: rgb(0, 77, 128);
+}
+a
+{
+    color: rgb(255, 255, 255);
+}
+#logo
+{
+    display: flex;
+    width: 40px;
+    margin-right: 20px;
+}
+#image-logo
+{
+    display: flex;
+    text-decoration: none;
+    padding-right: 50px;
+}
+#descr-app
+{
+    display: flex;
+    padding: 250px;
+    padding-left: 80px;
+    padding-right: 750px;
+    position: absolute;
+    margin-left: 200px;
+    color: dimgrey;
+    margin-top: 20px;
+    text-align: center;
+}
+b
+{
+    font-size: 20px;
+}
+p
+{
+    font-size: 35px;
+    font-weight: normal;
+    text-align: center;
+    margin-top: 1px;
+}
+#image-app
+{
+  max-width: 550px;
+  margin-left: 700px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+h1
+{
+    display: flex;
+    padding: 200px;
+    padding-left: 80px;
+    padding-right: 750px;
+    position: absolute;
+    margin-left: 290px;
+    color: rgb(30, 94, 184);
+    font-size: 70px;
+    font-weight: 600px;
+    margin-top: 1px;
+}
+
+/*.btn-start
+{
+    color: rgb(255, 255, 255);
+    border-radius: 4px;
+    border-color: blue;
+    font: bold;
+}
+.btn-start:hover
+{
+    background-color: rgb(243, 160, 35);
+    color: white;
+    width: 15;
+    align-items: center;
+}
+.btn-start
+{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 40px;
+   border: 1px solid rgb(165, 165, 165);
+}
+   <!--Vianney Goétrand KEDJITAR
+Responsable Startup VINNOVER
+Graphic-DESIGNER
+-->
+
+*/
+#text-d
+{
+    text-align: center;
+    text-decoration: none;
+    color: dimgray;
+    font-size: 25px;
+    padding: 5px;
+    font-weight: lighter;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+/* Partie Services */
+.box {
+    border-radius: 0px;
+    background: #fff;
+    position: relative;
+    background-color: #2b2e5d;
+  }
+  
+  .box-content {
+    padding: 10px;
+  }
+  
+  .box-image {
+    width: 20%;
+    display: inline-block;
+  }
+  
+  .box-image .wrap {
+    padding-top: 10px;
+    width: 100%;
+  }
+  
+  .box-image img {
+    width: 100%;
+  }
+  
+  .box-text {
+    display: inline-block;
+    text-align: justify;
+    font-size: 40px;
+    vertical-align: top;
+    width: 60%;
+    color: #f1f1f1;
+    padding-left: 10px;
+  }
+  .box-text .wrap {
+    padding: 100px;
+    font-size: 30px;
+  }
+  
+  .box-footer {
+    padding: 10px;
+    border-top: 4px solid #a1a1a1;
+    text-align: center;
+    background: #f1f1f1;
+  }
+  .li
+  {
+    font-size: 35px;
+  }
+  /* Fin de la Partie Services */
+
+  /* Partie Services
+  <!--
+  Vianney Goétrand KEDJITAR
+Responsable Startup VINNOVER
+Graphic-DESIGNER
+-->
+
+  */
+*
+{
+    padding: 0;
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+}
+.about {
+    border-radius: 0px;
+    background: #fff;
+    position: relative;
+    background-color: rgb(0, 77, 128);
+  }
+  
+  .about-content {
+    padding: 10px;
+  }
+  
+  .about-image {
+    width: 20%;
+    display: inline-block;
+  }
+  
+  .about-image .wrap {
+    padding-top: 10px;
+    width: 100%;
+  }
+  
+  .about-image img {
+    width: 100%;
+  }
+  
+  .about-text {
+    display: inline-block;
+    text-align: justify;
+    font-size: 20px;
+    vertical-align: top;
+    width: 60%;
+    color: #f1f1f1;
+    padding-left: 10px;
+  }
+  .about-text .case {
+    padding: 100px;
+    font-size: 25px;
+  }
+  
+  .about-footer {
+    padding: 10px;
+    border-top: 4px solid #a1a1a1;
+    text-align: center;
+    background: #f1f1f1;
+  }
+  .h1
+  {
+    font-size: 50px;
+  }
+  /* Fin de la Partie Services */

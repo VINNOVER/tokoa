@@ -1,0 +1,69 @@
+/* Partie Services 
+<!--
+Vianney Goétrand KEDJITAR
+Responsable Startup VINNOVER
+Graphic-DESIGNER
+-->
+*/
+*
+{
+    padding: 0;
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+}
+.about {
+    border-radius: 0px;
+    background: #fff;
+    position: relative;
+    background-color: rgb(0, 77, 128);
+  }
+  
+  .about-content {
+    padding: 10px;
+  }
+  
+  .about-image {
+    width: 20%;
+    display: inline-block;
+  }
+  
+  .about-image .wrap {
+    width: 100%;
+  }
+  
+  .about-image img {
+    width: 100%;
+  }
+  
+  .about-text {
+    display: inline-block;
+    text-align: justify;
+    font-size: 20px;
+    vertical-align: top;
+    width: 60%;
+    color: #f1f1f1;
+    padding-left: 10px;
+  }
+  .about-text .case {
+    padding: 100px;
+    font-size: 25px;
+  }
+  
+  .about-footer {
+    padding: 10px;
+    border-top: 4px solid #a1a1a1;
+    text-align: center;
+    background: #f1f1f1;
+  }
+  .h1
+  {
+    font-size: 50px;
+  }
+  /* Fin de la Partie Services
+  <!--
+  Vianney Goétrand KEDJITAR
+Responsable Startup VINNOVER
+Graphic-DESIGNER
+-->
+  */
